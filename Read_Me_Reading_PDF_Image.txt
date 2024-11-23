@@ -1,0 +1,1 @@
+Here is the final version of reading one PDF with a defined path, extracting the information, and renaming the file for our reference based on the searching the pattern defined. (Just notice that Tesseract OCR and Poppler packages must be installed on the system.) 
